@@ -10,9 +10,8 @@ This project is a home automation system designed to enhance security, provide e
 - Temperature Sensor (LM35): Monitors temperature changes.
 - Servo Motor: Controls the movement of the door.
 - Ultrasonic Sensor: Measures distances for user proximity detection.
-![Home Automation Components1](component_photo1.jpg)
-![Home Automation Components2](component_photo2.jpg)
-[![Home Automation Project Demo](demo_thumbnail.jpg)](demo_video.mp4)
+![Home Automation Components1](component_photo1.jpg)    |   ![Home Automation Components2](component_photo2.jpg)
+
 
 
 ## How It Works
