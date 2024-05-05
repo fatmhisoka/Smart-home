@@ -12,6 +12,8 @@ This project is a home automation system designed to enhance security, provide e
 - Ultrasonic Sensor: Measures distances for user proximity detection.
 ![Home Automation Components1](component_photo1.jpg)
 ![Home Automation Components2](component_photo2.jpg)
+[![Home Automation Project Demo](demo_thumbnail.jpg)](demo_video.mp4)
+
 
 ## How It Works
 1. **PIR Motion Sensor**: Detects human presence and triggers actions accordingly.
