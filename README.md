@@ -11,7 +11,7 @@ This project is a home automation system designed to enhance security, provide e
 - Servo Motor: Controls the movement of the door.
 - Ultrasonic Sensor: Measures distances for user proximity detection.
 ![Home Automation Components1](component_photo1.jpg) 
-![Home Automation Components2](component_photo2.gif)
+![Home Automation Components2](component_photo2.jpg)
 
 
 
