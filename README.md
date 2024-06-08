@@ -1,4 +1,4 @@
-# Smart Home Automation Project README
+# Smart Home Automation Project
 
 ## Overview
 This project is a home automation system designed to enhance security, provide environmental feedback, and monitor temperature within a home environment. It utilizes various sensors, actuators, and an Arduino Uno microcontroller for its operation.
